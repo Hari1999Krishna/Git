@@ -1,3 +1,3 @@
- interface Calculator{
+interface Calculator{
 int sum(int a, int b);
 }
